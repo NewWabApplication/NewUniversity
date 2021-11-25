@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "km4OG0Inu6w+pe71/tKAfOkLLSki32TFnBxQXcP7EpZlJg1Hi2K3/8LGFW2cK022qpQ/4f2oGn2OXlo8RI548w==",
+  "dgSpecHash": "jB1Vc/IBfi+pP3RkzMNzx9Bw1I1F4hXUOkkKN4NzGAE2qblTSrXJyvX703nVoCueJSfPlcyFMcv1XfuKey0MQw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\виталя\\Desktop\\WebUniversity\\WebUniversity\\WebUniversity.csproj",
+  "projectFilePath": "C:\\Users\\виталя\\Desktop\\WebUniversity\\webuniversity\\WebUniversity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\виталя\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\виталя\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
