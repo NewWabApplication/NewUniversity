@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\виталя\\Desktop\\WebUniversity\\webuniversity\\WebUniversity.csproj": {}
+    "C:\\Users\\виталя\\Desktop\\WebUniversity\\WebUniversity\\WebUniversity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\виталя\\Desktop\\WebUniversity\\webuniversity\\WebUniversity.csproj": {
+    "C:\\Users\\виталя\\Desktop\\WebUniversity\\WebUniversity\\WebUniversity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\виталя\\Desktop\\WebUniversity\\webuniversity\\WebUniversity.csproj",
+        "projectUniqueName": "C:\\Users\\виталя\\Desktop\\WebUniversity\\WebUniversity\\WebUniversity.csproj",
         "projectName": "WebUniversity",
-        "projectPath": "C:\\Users\\виталя\\Desktop\\WebUniversity\\webuniversity\\WebUniversity.csproj",
+        "projectPath": "C:\\Users\\виталя\\Desktop\\WebUniversity\\WebUniversity\\WebUniversity.csproj",
         "packagesPath": "C:\\Users\\виталя\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\виталя\\Desktop\\WebUniversity\\webuniversity\\obj\\",
+        "outputPath": "C:\\Users\\виталя\\Desktop\\WebUniversity\\WebUniversity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\виталя\\AppData\\Roaming\\NuGet\\NuGet.Config",
